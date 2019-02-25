@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mail app</string>
+    <string name="fish_text">Dogfish shark Pacific lamprey rock beauty Black mackerel Devario slender snipe eel, ribbon eel. Slender snipe eel scissor-tail rasbora New World rivuline yellow-and-black triplefin rough sculpin icefish starry flounder largenose fish threespine stickleback common carp. Garpike, flying characin trumpetfish, dab squaretail Peter\'s elephantnose fish parasitic catfish.</string>
+    <string name="fish_hours">4h</string>
+    <string name="email_title_placeholder">Anonymous</string>
+    <string name="title_hint">Title</string>
+    <string name="subtitle_hint">Subtitle</string>
+    <string name="content_hint">Content</string>
+    <string name="button1_text">Send Letter</string>
+    <string name="action_settings">Settings</string>
+    <string name="todo">TODO</string>
+</resources>
